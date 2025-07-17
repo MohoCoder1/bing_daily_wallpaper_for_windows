@@ -4,7 +4,7 @@ from datetime import datetime
 import ctypes
 import logging
 import winreg
-import time  # for sleep
+import time  # for  sleep
 
 # logging file path
 log_file = os.path.join(os.path.expanduser("~"), "Pictures", "BingWallpapers", "bing_wallpaper.log")
